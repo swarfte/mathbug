@@ -1,7 +1,7 @@
 [project]
 name = "mathbug"
-version = "0.1.0"
-description = "Add your description here"
+version = "0.1.2"
+description = "A deliberately confusing library that swaps basic arithmetic operators at runtime by transforming the caller's source code."
 readme = "README.md"
 authors = [
     { name = "Benjamin Chau", email = "68836494+swarfte@users.noreply.github.com" }
